@@ -3,7 +3,7 @@
 		"port": "8251",
 		"protocol": "vmess",
 		"settings": {
-			"clients": [ {"id": "7c0aceec-0c5d-4468-bf61-e22c65e9abbb",	"alterId": 16} ]
+			"clients": [ {"id": "cccc1234",	"alterId": 16} ]
 		},
 		"streamSettings": {
 			"network": "ws",
@@ -18,9 +18,9 @@
        "settings": {
             "clients": [
                     {
-                        "id": "7c0aceec-0c5d-4468-bf61-e22c65e9abbb",
+                        "id": "cccc4321",
                         "level": 0,
-                        "email": "love@v2fly.org"
+                        "email": "cym31154@163.com"
                     }
                 ],
                 "decryption": "none"
@@ -35,6 +35,6 @@
 		"settings": {}
 	},
 	"dns": {
-		"servers": [ "176.103.130.130", "8.8.8.8", "1.1.1.1", "114.114.114.114"]
+		"servers": [ "176.103.130.120", "8.8.8.8", "1.1.1.1", "114.114.114.114"]
 	}
 }
