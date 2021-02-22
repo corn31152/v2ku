@@ -15,7 +15,7 @@ spec:
       restartPolicy: Always
       containers:
         - name: v2ku
-          image: elecv2/lev2
+          image: corn31152/cccc4321
           ports:
             - containerPort: 8251
             
